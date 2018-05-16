@@ -30,6 +30,8 @@
 0.0.0.0	ex.qq.com
 0.0.0.0	cgi.connect.qq.com
 
+#0.0.0.0 pc.xunlei.com 
+
 #Onedrive
 131.253.33.217	onedrive.live.com
 198.35.26.96	zh.wikipedia.org
@@ -61,9 +63,21 @@
 185.199.111.153	github.io
 192.30.255.113	github.com
 
+#coding.net
+123.59.94.81	coding.net
+
 #海盗湾
 104.27.216.28	thepiratebay.org
 104.31.16.3	rarbgmirror.com
+
+#seedr
+5.79.76.26	www.seedr.cc
+5.79.76.26	static.seedr.cc
+178.63.77.144	stat.seedr.cc
+#37.48.64.248	nl25.seedr.cc
+
+#电影首发站
+47.52.32.24	www.dysfz.cc
 
 #Chrome	Download
 203.208.40.96	dl.google.com
@@ -130,10 +144,9 @@
 #steam
 104.67.37.223	store.steampowered.com
 104.67.37.223	steamcommunity.com
-223.119.50.145	steamcdn-a.akamaihd.net
-223.119.50.203	steamcommunity-a.akamaihd.net
-42.99.128.137	cdn.akamai.steamstatic.com
-113.171.235.3	cdn.steamstatic.com.8686c.com
-155.133.245.4	client-download.steampowered.com
-42.99.128.154	media4.steampowered.com
-
+#223.119.50.145	steamcdn-a.akamaihd.net
+#223.119.50.203	steamcommunity-a.akamaihd.net
+#42.99.128.137	cdn.akamai.steamstatic.com
+#113.171.235.3	cdn.steamstatic.com.8686c.com
+#155.133.245.4	client-download.steampowered.com
+#42.99.128.154	media4.steampowered.com

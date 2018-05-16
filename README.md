@@ -14,8 +14,8 @@
 notepad C:\Windows\System32\drivers\etc\hosts
 ```
 
-* 或用其它方式打开hosts文件
+* 或用其它方式打开*hosts*文件
 
 2. 
 
-复制* https://raw.githubusercontent.com/ssyatelandisi/hosts/master/hosts *的内容到hosts中添加保存即可。
+复制 https://raw.githubusercontent.com/ssyatelandisi/hosts/master/hosts 的内容到*hosts*中添加保存即可。

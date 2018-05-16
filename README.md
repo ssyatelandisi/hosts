@@ -19,3 +19,7 @@ notepad C:\Windows\System32\drivers\etc\hosts
 2. 
 
 复制 https://raw.githubusercontent.com/ssyatelandisi/hosts/master/hosts 的内容到*hosts*中添加保存即可。
+
+## Android使用方法
+
+参考[iTXTech Daedalus](https://github.com/iTXTech/Daedalus)。

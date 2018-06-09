@@ -30,8 +30,6 @@
 0.0.0.0	ex.qq.com
 0.0.0.0	cgi.connect.qq.com
 
-#0.0.0.0 pc.xunlei.com 
-
 #Onedrive
 131.253.33.217	onedrive.live.com
 198.35.26.96	zh.wikipedia.org
@@ -49,7 +47,7 @@
 #DELL
 104.67.51.93	content.dellsupportcenter.com
 
-#Windows系统更新
+#Windows??????
 13.107.4.50	download.windowsupdate.com
 
 #vpnbook
@@ -112,7 +110,7 @@
 115.182.125.156	api.vip.iqiyi.com
 211.151.133.222	data.video.iqiyi.com
 
-#反斗软件
+#反斗限免
 192.155.84.104	free.apprcn.com
 120.192.92.194	apprcn.b0.upaiyun.com
 117.148.163.212	freeapprcn.qiniudn.com
@@ -121,25 +119,6 @@
 #119.75.213.61	www.baidu.com
 #119.75.222.48	tieba.baidu.com
 #182.61.62.30	image.baidu.com
-
-#CrystalACG
-106.186.27.62	www.dmm.com
-106.186.27.62	www.dmm.co.jp
-106.186.27.62	sp.dmm.com
-106.186.27.62	sp.dmm.co.jp
-106.186.27.62	actress.dmm.co.jp
-106.186.27.62	book.dmm.com
-106.186.27.62	book.dmm.co.jp
-106.186.27.62	www.akabeesoft2.com
-106.186.27.62	www.akabeesoft3.com
-106.186.27.62	www.akatsukiworks.com
-106.186.27.62	www.alicesoft.com
-106.186.27.62	www.cosmiccute.com
-106.186.27.62	www.hibiki-site.com
-106.186.27.62	www.minori.ph
-106.186.27.62	erogamescape.ddo.jp
-106.186.27.62	tenco.cc
-106.186.27.62	wheel-soft.com
 
 #steam
 104.67.37.223	store.steampowered.com

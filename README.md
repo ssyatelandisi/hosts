@@ -6,9 +6,7 @@
 
 ## Windows使用方法
 
-1. 
-
-* 以管理员身份运行
+* 以管理员身份运行命令行
 
 ```
 notepad C:\Windows\System32\drivers\etc\hosts
@@ -16,9 +14,7 @@ notepad C:\Windows\System32\drivers\etc\hosts
 
 * 或用其它方式打开*hosts*文件
 
-2. 
-
-复制 https://raw.githubusercontent.com/ssyatelandisi/hosts/master/hosts 的内容到*hosts*中添加保存即可。
+2 复制 [https://raw.githubusercontent.com/ssyatelandisi/hosts/master/hosts](https://raw.githubusercontent.com/ssyatelandisi/hosts/master/hosts) 的内容到*hosts*中添加保存即可。
 
 ## Android使用方法
 

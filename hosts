@@ -80,6 +80,11 @@
 #Chrome	Download
 203.208.40.96	dl.google.com
 
+#Gmail
+108.177.125.108	pop.gmail.com
+108.177.125.108	imap.gmail.com
+108.177.125.108	smtp.gmail.com
+
 #SS
 139.162.124.170	my.freess.org
 45.32.228.164	jp.ohmyss.win
